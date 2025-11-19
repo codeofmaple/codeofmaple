@@ -20,3 +20,19 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) |
 
+
+
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Contribution Graph | Top Languages |
+|:------------:|:----------------:|:-------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeofmaple&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Contribution Graph](https://ghchart.rshah.org/codeofmaple) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeofmaple&layout=compact&theme=tokyonight) |
+
+
+
+
+
+
+
+
