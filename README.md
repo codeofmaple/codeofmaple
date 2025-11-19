@@ -44,6 +44,19 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 </p>
 
 
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="mailto:maplecodetree@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/codeofmaple" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
 
 
 
