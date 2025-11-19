@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Hi, I'm **Nahid** 👋  
+Hi, I'm **Md Nahid Ali** 👋  
 I am an aspiring **MERN Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**.  
 
 I am actively learning **React, Next.js, Node.js, Express.js, MongoDB, Tailwind, and Firebase**, focusing on creating **clean, responsive, and modern applications**.  
