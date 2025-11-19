@@ -32,6 +32,21 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 
 
 
+## 🚀 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/codeofmaple/Utility-Bill-Management-System-billsync-Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=Utility-Bill-Management-System-billsync-Client&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/codeofmaple/smart-deals-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=A08-hero-apps&theme=tokyonight" />
+  </a>
+</p>
+
+
+
+
+
 
 
 
