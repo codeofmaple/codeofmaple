@@ -2,10 +2,14 @@
   <img src="https://github.com/codeofmaple/codeofmaple/blob/main/GitHub__bannar.png?raw=true" alt="GitHub Banner" />
 </p>
 
+
+<h1 align="center">Hi, I'm <strong>Md Nahid Ali</strong> 👋</h1>
+<h3 align="center">MERN Stack Developer | React • Next.js • Node • MongoDB</h3>
+
+
 ## 🚀 About Me
 
-Hi, I'm **Md Nahid Ali** 👋  
-I am an aspiring **MERN Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**.  
+I'm an enthusiastic **MERN Stack Developer** passionate about building **modern, scalable, and user-centered web applications**.
 
 I am actively learning **React, Next.js, Node.js, Express.js, MongoDB, Tailwind, and Firebase**, focusing on creating **clean, responsive, and modern applications**.  
 
@@ -36,13 +40,18 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | GitHub Streak | Top Languages |
-|:------------:|:----------------:|:-------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeofmaple&show_icons=true&theme=tokyonight&count_private=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeofmaple&theme=tokyonight" /> | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeofmaple&layout=compact&theme=tokyonight) |
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeofmaple&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codeofmaple&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeofmaple&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Pinned Projects
+## 📌 Pinned Projects
 
 <p align="center">
   <a href="https://github.com/codeofmaple/Utility-Bill-Management-System-billsync-Client">
@@ -58,16 +67,20 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:maplecodetree@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:maplecodetree@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/codeofmaple" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/codeofmaple">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-nahid-ali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-nahid-ali">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center">💙 Thanks for visiting my profile! Feel free to check out my work and connect with me.</p>
