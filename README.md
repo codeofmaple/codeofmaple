@@ -13,8 +13,9 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 
 ### **Current Activity / Projects:**
 - Exploring **Next.js** and advanced **React patterns**  
-- Developing **Utility Bill Management System** (Client & Server)  
-- Working on **Smart Deals Server** project for hands-on practice
+- Practicing **full-stack MERN development** (Client & Server)  
+- Learning **TypeScript** for scalable and maintainable code
+
 
 ---
 
