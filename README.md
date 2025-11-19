@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**codeofmaple/codeofmaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Nahid** 👋  
+I am an aspiring **MERN Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**.  
 
-Here are some ideas to get you started:
+I am actively learning **React, Next.js, Node.js, Express.js, MongoDB, Tailwind, and Firebase**, focusing on creating **clean, responsive, and modern applications**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy **solving problems, building real projects, and exploring new technologies**, and I am eager to **learn, contribute, and grow** as a full-stack developer.
+
+
+
+
+<h3>When I code, I rely on</h3>
+
+| Skills Overview | Technologies |
+|-----------------|--------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) |
+
