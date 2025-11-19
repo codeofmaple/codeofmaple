@@ -11,10 +11,13 @@ I am actively learning **React, Next.js, Node.js, Express.js, MongoDB, Tailwind,
 
 I enjoy **solving problems, building real projects, and exploring new technologies**, and I am eager to **learn, contribute, and grow** as a full-stack developer.
 
+
+
 ### **Current Activity / Projects:**
 - Exploring **Next.js** and advanced **React patterns**  
 - Practicing **full-stack MERN development** (Client & Server)  
-- Learning **TypeScript** for scalable and maintainable code
+- Building **personal projects** to strengthen coding skills  
+- Following **open-source contributions & collaboration**
 
 
 ---
