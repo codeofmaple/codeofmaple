@@ -24,6 +24,13 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 - Following **open-source contributions & collaboration**
 
 
+
+---
+
+## 💡 Quote
+
+🚀✨ "First, solve the problem. Then, write the code." – John Johnson
+
 ---
 
 
