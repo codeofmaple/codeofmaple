@@ -11,10 +11,10 @@ I am actively learning **React, Next.js, Node.js, Express.js, MongoDB, Tailwind,
 
 I enjoy **solving problems, building real projects, and exploring new technologies**, and I am eager to **learn, contribute, and grow** as a full-stack developer.
 
-**Current Activity / Projects:**
-- Exploring **Next.js** and advanced React patterns
-- Building **Utility Bill Management System** (client & server)
-- Developing **Smart Deals Server** project for practice
+### **Current Activity / Projects:**
+- Exploring **Next.js** and advanced **React patterns**  
+- Developing **Utility Bill Management System** (Client & Server)  
+- Working on **Smart Deals Server** project for hands-on practice
 
 ---
 
