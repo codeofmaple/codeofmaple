@@ -25,9 +25,9 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Contribution Graph | Top Languages |
+| GitHub Stats | GitHub Streak | Top Languages |
 |:------------:|:----------------:|:-------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeofmaple&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Contribution Graph](https://ghchart.rshah.org/codeofmaple) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeofmaple&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeofmaple&show_icons=true&theme=tokyonight&count_private=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeofmaple&theme=tokyonight" /> | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeofmaple&layout=compact&theme=tokyonight) |
 
 
 
@@ -42,6 +42,7 @@ I enjoy **solving problems, building real projects, and exploring new technologi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=A08-hero-apps&theme=tokyonight" />
   </a>
 </p>
+
 
 
 
