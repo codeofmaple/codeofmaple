@@ -2,9 +2,6 @@
   <img src="https://github.com/codeofmaple/codeofmaple/blob/main/GitHub__bannar.png?raw=true" alt="GitHub Banner" />
 </p>
 
-
-
-
 ## 🚀 About Me
 
 Hi, I'm **Md Nahid Ali** 👋  
@@ -14,8 +11,12 @@ I am actively learning **React, Next.js, Node.js, Express.js, MongoDB, Tailwind,
 
 I enjoy **solving problems, building real projects, and exploring new technologies**, and I am eager to **learn, contribute, and grow** as a full-stack developer.
 
+**Current Activity / Projects:**
+- Exploring **Next.js** and advanced React patterns
+- Building **Utility Bill Management System** (client & server)
+- Developing **Smart Deals Server** project for practice
 
-
+---
 
 <h3>When I code, I rely on</h3>
 
@@ -27,8 +28,7 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) |
 
-
-
+---
 
 ## 📊 GitHub Stats
 
@@ -36,8 +36,7 @@ I enjoy **solving problems, building real projects, and exploring new technologi
 |:------------:|:----------------:|:-------------:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeofmaple&show_icons=true&theme=tokyonight&count_private=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeofmaple&theme=tokyonight" /> | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeofmaple&layout=compact&theme=tokyonight) |
 
-
-
+---
 
 ## 🚀 Pinned Projects
 
@@ -46,10 +45,14 @@ I enjoy **solving problems, building real projects, and exploring new technologi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=Utility-Bill-Management-System-billsync-Client&theme=tokyonight" />
   </a>
   <a href="https://github.com/codeofmaple/smart-deals-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=smart-deals-server&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/codeofmaple/A08-hero-apps">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=A08-hero-apps&theme=tokyonight" />
   </a>
 </p>
 
+---
 
 ## 🔗 Let’s Connect
 
@@ -60,15 +63,7 @@ I enjoy **solving problems, building real projects, and exploring new technologi
   <a href="https://github.com/codeofmaple" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/md-nahid-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
