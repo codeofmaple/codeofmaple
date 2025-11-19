@@ -66,13 +66,14 @@ I enjoy **solving problems, building real projects, and exploring new technologi
   <a href="https://github.com/codeofmaple/Utility-Bill-Management-System-billsync-Client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=Utility-Bill-Management-System-billsync-Client&theme=tokyonight" />
   </a>
-  <a href="https://github.com/codeofmaple/smart-deals-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=smart-deals-server&theme=tokyonight" />
+  <a href="https://github.com/codeofmaple/toytopia-local-kids-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=toytopia-local-kids-store&theme=tokyonight" />
   </a>
   <a href="https://github.com/codeofmaple/A08-hero-apps">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeofmaple&repo=A08-hero-apps&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
