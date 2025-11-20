@@ -83,7 +83,7 @@ Feel free to reach out to me or connect with me on [LinkedIn](https://www.linked
 
 You can also find me on:
 
-- ✉️ **Email**: maplecodetree@gmail.com  
+- ✉️ **Email**: nahidali.code@gmail.com  
 - 🐙 **GitHub**: [Click Here](https://github.com/codeofmaple)  
 - 🔗 **LinkedIn**: [Click Here](https://www.linkedin.com/in/md-nahid-ali)  
 
